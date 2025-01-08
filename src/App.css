@@ -3,7 +3,7 @@
   padding: 0;
   font-family: Helvetica;
   box-sizing: border-box;
-  text-shadow: #000 1px 1px;
+  text-shadow: #000;
 }
 
 .App {
@@ -11,7 +11,7 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url("assets/bg.webp");
+  background-image: url("assets/excel--ncia-no-atendimento-ao-cliente--com-foco-no-trc1697652282.png");
   background-size: cover;
   background-position: center;
  }
